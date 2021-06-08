@@ -1,0 +1,31 @@
+{
+    "name": "mh-theme",
+    "displayName": "MH Theme",
+    "description": ":) Wena",
+    "version": "0.0.1",
+    "publisher": "Miguel-HP",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "MH Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MH-Theme-color-theme.json"
+            }
+        ]
+    },
+    "autor": {
+        "name": "Miguel Henriquez",
+        "email": "mig.henriquezp@gmail.com"
+    },  
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MHP24/vsc-mh-theme.git"
+    }
+}
