@@ -27,5 +27,11 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/MHP24/vsc-mh-theme.git"
-    }
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "MH",
+        "MH Theme"
+    ]
 }
